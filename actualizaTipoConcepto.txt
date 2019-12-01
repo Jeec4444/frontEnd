@@ -10,3 +10,7 @@ SET FAC_CURSO = 1903
 where FAC_CURSO IS NULL 
 AND FAC_TIPOCONCEPTO = 2
  AND FAC_ESTADO = 'A'     */
+
+ 1 membresia 7
+ 2 escuela 1903
+ 3 varios 8
